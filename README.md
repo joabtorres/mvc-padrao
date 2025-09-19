@@ -1,4 +1,4 @@
-# Eletroninfo API
+# Estrutura MVC
 
 Este projeto tem como objetivo uma estrutura MVC padrão.
 
